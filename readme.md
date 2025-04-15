@@ -1,7 +1,5 @@
 This demo repository is for AI-based multi-faceted integration of multi-phase radiomics and laboratory data for the renal mass classification (AI-M2RAL) model.
 
-![model_workflow](document/model_workflow.png)
-
 ## Environment
 
 You should use `./environment.yaml` to create a conda environment:
